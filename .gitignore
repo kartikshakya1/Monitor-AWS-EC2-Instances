@@ -1,0 +1,12 @@
+.cache/
+.ssh/
+__pycache__/
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.cshrc
+.lesshst
+.tcshrc
+.viminfo
+
