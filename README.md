@@ -19,3 +19,5 @@ A lightweight Flask app to display and filter AWS EC2 instances by region and st
 ```bash
 git clone https://github.com/kartikshakya1/Monitor-AWS-EC2-Instances.git
 cd Monitor-AWS-EC2-Instances.git
+
+
